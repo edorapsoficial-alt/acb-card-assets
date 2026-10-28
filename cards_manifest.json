@@ -1,0 +1,470 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-10-28T14:40:40.248Z",
+  "repository": "edorapsoficial-alt/acb-card-assets",
+  "branch": "main",
+  "publishDir": "cards",
+  "pagesBaseUrl": "https://edorapsoficial-alt.github.io/acb-card-assets",
+  "rawBaseUrl": "https://raw.githubusercontent.com/edorapsoficial-alt/acb-card-assets/main",
+  "preferredUrlType": "pages",
+  "officialCardBackUrl": "https://steamusercontent-a.akamaihd.net/ugc/9902490616982853380/62B80402DC90876D8E5D050F24D76CB27F46BAC1/",
+  "totalCards": 3,
+  "cards": [
+    {
+      "stableId": "0001",
+      "originalId": "acb_card_1",
+      "cardNumber": "No. 001",
+      "name": "YUGI MUTO",
+      "subtitle": "the Shy Duelist",
+      "fullName": "YUGI MUTO, the Shy Duelist",
+      "cardType": "Character",
+      "rarity": "Bronze",
+      "cost": 1,
+      "universe": "Yu-Gi-Oh!",
+      "primaryElement": "Spirit",
+      "weaknesses": [
+        "Darkness",
+        "Nature"
+      ],
+      "strengths": [],
+      "neutrals": [],
+      "hp": 1200,
+      "atk": 200,
+      "ev": 3,
+      "characterType": "Human",
+      "keywords": [
+        "Win Condition",
+        "Gambler",
+        "Energy",
+        "Late Game"
+      ],
+      "tournamentAbilities": [
+        {
+          "id": "tab_1793157956674_ksux9",
+          "name": "Grandpa Deck",
+          "trigger": "AUTO",
+          "phase": "TOURNAMENT",
+          "description": "Generate 1 Energy. You may look at the top card of your deck and choose to keep it on top or place it on the bottom.",
+          "icon": "zap"
+        }
+      ],
+      "battleAbilities": [
+        {
+          "id": "bab_1793157956675_z6dov",
+          "name": "The Great Exodia!",
+          "trigger": "RESERVE",
+          "phase": "BATTLE",
+          "description": "At the start of your turn, roll a d20. On a 20, this card gains 1 Exodia Stack. Upon reaching 10 stacks, deal 9999 damage to the opponent's entire lineup and remove this card from your lineup.",
+          "icon": "users"
+        }
+      ],
+      "flavorText": "“Solving the Millennium Puzzle was just the beginning. Even the smallest heart can house an unconquerable soul.”",
+      "setNumber": "SET: YU_GI_OH_ 01",
+      "gmNotes": "{\"id\":\"acb_card_1\",\"stableId\":\"0001\",\"name\":\"YUGI MUTO, the Shy Duelist\",\"hp\":1200,\"atk\":200,\"ev\":3,\"imageUrl\":\"https://edorapsoficial-alt.github.io/acb-card-assets/cards/0001.png?v=be61550bef\"}",
+      "ttsDescription": "Spirit Bronze",
+      "imagePath": "cards/0001.png",
+      "publicUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0001.png?v=be61550bef",
+      "pagesUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0001.png?v=be61550bef",
+      "rawUrl": "https://raw.githubusercontent.com/edorapsoficial-alt/acb-card-assets/main/cards/0001.png?v=be61550bef",
+      "version": 1,
+      "fileHash": "be61550bef9fe1441885105f8bad342fa1fa2c7a8ee68be42a0be75775853983",
+      "gitBlobSha": "0f524498bcfd7c62142f3a1e61b1f01e61c3f938",
+      "cardContentHash": "2ddd0996cd9e29750b4cbd71887243a3a42e58dbd4d19dd74ec0105492681d14",
+      "layoutMode": "full-art",
+      "decksheet": {
+        "universe": "Yu-Gi-Oh!",
+        "sheetName": "ACB_Yu-Gi-Oh!_Decksheet",
+        "columns": 6,
+        "rows": 5,
+        "slotIndex": 0,
+        "row": 0,
+        "col": 0,
+        "cardIdInDeck": 100,
+        "backUrl": "https://steamusercontent-a.akamaihd.net/ugc/9902490616982853380/62B80402DC90876D8E5D050F24D76CB27F46BAC1/"
+      },
+      "updatedAt": "2026-10-28T14:40:35.992Z"
+    },
+    {
+      "stableId": "0002",
+      "originalId": "acb_card_2",
+      "cardNumber": "No. 002",
+      "name": "YUGI MUTO",
+      "subtitle": "Natural Strategist",
+      "fullName": "YUGI MUTO, Natural Strategist",
+      "cardType": "Character",
+      "rarity": "Silver",
+      "cost": 4,
+      "universe": "Yu-Gi-Oh!",
+      "primaryElement": "Spirit",
+      "weaknesses": [
+        "Darkness",
+        "Nature"
+      ],
+      "strengths": [],
+      "neutrals": [],
+      "hp": 2200,
+      "atk": 600,
+      "ev": 5,
+      "characterType": "Human",
+      "keywords": [
+        "Card Draw",
+        "Control",
+        "Energy",
+        "Swapper"
+      ],
+      "tournamentAbilities": [
+        {
+          "id": "tab_1793157956675_vhie8",
+          "name": "I Draw",
+          "trigger": "AUTO",
+          "phase": "TOURNAMENT",
+          "description": "Generate 1 Energy. Draw a card.",
+          "icon": "sparkles"
+        }
+      ],
+      "battleAbilities": [
+        {
+          "id": "bab_1793157956676_86dux",
+          "name": "I Set a Card",
+          "trigger": "ENTER",
+          "phase": "BATTLE",
+          "description": "You may swap the positions of two characters in your Reserve.",
+          "icon": "log-in"
+        }
+      ],
+      "flavorText": "“It's not about having powerful cards in your hand; it's about trusting the bond between you and your deck.”",
+      "setNumber": "SET: YU_GI_OH_ 01",
+      "gmNotes": "{\"id\":\"acb_card_2\",\"stableId\":\"0002\",\"name\":\"YUGI MUTO, Natural Strategist\",\"hp\":2200,\"atk\":600,\"ev\":5,\"imageUrl\":\"https://edorapsoficial-alt.github.io/acb-card-assets/cards/0002.png?v=10d6596f20\"}",
+      "ttsDescription": "Spirit Silver",
+      "imagePath": "cards/0002.png",
+      "publicUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0002.png?v=10d6596f20",
+      "pagesUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0002.png?v=10d6596f20",
+      "rawUrl": "https://raw.githubusercontent.com/edorapsoficial-alt/acb-card-assets/main/cards/0002.png?v=10d6596f20",
+      "version": 1,
+      "fileHash": "10d6596f2050cd97c349e0b35e8d86e72e71ee4cdee1c46da7c092af5867c799",
+      "gitBlobSha": "f3ac2b500320904f3e26abb55e9d741c9e0ffe1b",
+      "cardContentHash": "f084fc8420358a1205b5bb1c99acb3422938c595962c8a05395c3adfee6ccc12",
+      "layoutMode": "full-art",
+      "decksheet": {
+        "universe": "Yu-Gi-Oh!",
+        "sheetName": "ACB_Yu-Gi-Oh!_Decksheet",
+        "columns": 6,
+        "rows": 5,
+        "slotIndex": 1,
+        "row": 0,
+        "col": 1,
+        "cardIdInDeck": 101,
+        "backUrl": "https://steamusercontent-a.akamaihd.net/ugc/9902490616982853380/62B80402DC90876D8E5D050F24D76CB27F46BAC1/"
+      },
+      "updatedAt": "2026-10-28T14:40:37.928Z"
+    },
+    {
+      "stableId": "0003",
+      "originalId": "acb_card_3",
+      "cardNumber": "No. 003",
+      "name": "YAMI YUGI",
+      "subtitle": "Awakened Pharaoh",
+      "fullName": "YAMI YUGI, Awakened Pharaoh",
+      "cardType": "Character",
+      "rarity": "Gold",
+      "cost": 6,
+      "universe": "Yu-Gi-Oh!",
+      "primaryElement": "Spirit",
+      "weaknesses": [
+        "Darkness",
+        "Nature"
+      ],
+      "strengths": [],
+      "neutrals": [],
+      "hp": 4000,
+      "atk": 1500,
+      "ev": 7,
+      "characterType": "Human",
+      "keywords": [
+        "Burst DMG",
+        "Sacrifice",
+        "Energy Battery",
+        "DPS"
+      ],
+      "tournamentAbilities": [
+        {
+          "id": "tab_1793157956676_ccg47",
+          "name": "The Millennium Puzzle",
+          "trigger": "ACTIVE",
+          "phase": "TOURNAMENT",
+          "description": "Generate 2 Energy. Destroy: destroy a card from your hand or discard pile.",
+          "icon": "swords"
+        }
+      ],
+      "battleAbilities": [
+        {
+          "id": "bab_1793157956676_a6ec7",
+          "name": "Dark Magic Attack!",
+          "trigger": "ACTIVE",
+          "phase": "BATTLE",
+          "description": "Once per game, this character's attack cannot be dodged and deals +1000 damage. The attack is also considered Dark type.",
+          "icon": "swords"
+        }
+      ],
+      "flavorText": "“When shadows engulf the arena, the ancient Pharaoh awakens to guide the duel toward righteous destiny.”",
+      "setNumber": "SET: YU_GI_OH_ 01",
+      "gmNotes": "{\"id\":\"acb_card_3\",\"stableId\":\"0003\",\"name\":\"YAMI YUGI, Awakened Pharaoh\",\"hp\":4000,\"atk\":1500,\"ev\":7,\"imageUrl\":\"https://edorapsoficial-alt.github.io/acb-card-assets/cards/0003.png?v=026914e66d\"}",
+      "ttsDescription": "Spirit Gold",
+      "imagePath": "cards/0003.png",
+      "publicUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0003.png?v=026914e66d",
+      "pagesUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0003.png?v=026914e66d",
+      "rawUrl": "https://raw.githubusercontent.com/edorapsoficial-alt/acb-card-assets/main/cards/0003.png?v=026914e66d",
+      "version": 1,
+      "fileHash": "026914e66d785f1ac5867e7bfbaffde4dcd671a10412bd5633d773df09cc17fe",
+      "gitBlobSha": "df485b57809cfc41f0dc3f13391c55b51838a75b",
+      "cardContentHash": "829c77246ab7d57a583ffc603961158d01c079049bab49f49d3ffdf6dfe7608d",
+      "layoutMode": "full-art",
+      "decksheet": {
+        "universe": "Yu-Gi-Oh!",
+        "sheetName": "ACB_Yu-Gi-Oh!_Decksheet",
+        "columns": 6,
+        "rows": 5,
+        "slotIndex": 2,
+        "row": 0,
+        "col": 2,
+        "cardIdInDeck": 102,
+        "backUrl": "https://steamusercontent-a.akamaihd.net/ugc/9902490616982853380/62B80402DC90876D8E5D050F24D76CB27F46BAC1/"
+      },
+      "updatedAt": "2026-10-28T14:40:40.248Z"
+    }
+  ],
+  "byStableId": {
+    "0001": {
+      "stableId": "0001",
+      "originalId": "acb_card_1",
+      "cardNumber": "No. 001",
+      "name": "YUGI MUTO",
+      "subtitle": "the Shy Duelist",
+      "fullName": "YUGI MUTO, the Shy Duelist",
+      "cardType": "Character",
+      "rarity": "Bronze",
+      "cost": 1,
+      "universe": "Yu-Gi-Oh!",
+      "primaryElement": "Spirit",
+      "weaknesses": [
+        "Darkness",
+        "Nature"
+      ],
+      "strengths": [],
+      "neutrals": [],
+      "hp": 1200,
+      "atk": 200,
+      "ev": 3,
+      "characterType": "Human",
+      "keywords": [
+        "Win Condition",
+        "Gambler",
+        "Energy",
+        "Late Game"
+      ],
+      "tournamentAbilities": [
+        {
+          "id": "tab_1793157956674_ksux9",
+          "name": "Grandpa Deck",
+          "trigger": "AUTO",
+          "phase": "TOURNAMENT",
+          "description": "Generate 1 Energy. You may look at the top card of your deck and choose to keep it on top or place it on the bottom.",
+          "icon": "zap"
+        }
+      ],
+      "battleAbilities": [
+        {
+          "id": "bab_1793157956675_z6dov",
+          "name": "The Great Exodia!",
+          "trigger": "RESERVE",
+          "phase": "BATTLE",
+          "description": "At the start of your turn, roll a d20. On a 20, this card gains 1 Exodia Stack. Upon reaching 10 stacks, deal 9999 damage to the opponent's entire lineup and remove this card from your lineup.",
+          "icon": "users"
+        }
+      ],
+      "flavorText": "“Solving the Millennium Puzzle was just the beginning. Even the smallest heart can house an unconquerable soul.”",
+      "setNumber": "SET: YU_GI_OH_ 01",
+      "gmNotes": "{\"id\":\"acb_card_1\",\"stableId\":\"0001\",\"name\":\"YUGI MUTO, the Shy Duelist\",\"hp\":1200,\"atk\":200,\"ev\":3,\"imageUrl\":\"https://edorapsoficial-alt.github.io/acb-card-assets/cards/0001.png?v=be61550bef\"}",
+      "ttsDescription": "Spirit Bronze",
+      "imagePath": "cards/0001.png",
+      "publicUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0001.png?v=be61550bef",
+      "pagesUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0001.png?v=be61550bef",
+      "rawUrl": "https://raw.githubusercontent.com/edorapsoficial-alt/acb-card-assets/main/cards/0001.png?v=be61550bef",
+      "version": 1,
+      "fileHash": "be61550bef9fe1441885105f8bad342fa1fa2c7a8ee68be42a0be75775853983",
+      "gitBlobSha": "0f524498bcfd7c62142f3a1e61b1f01e61c3f938",
+      "cardContentHash": "2ddd0996cd9e29750b4cbd71887243a3a42e58dbd4d19dd74ec0105492681d14",
+      "layoutMode": "full-art",
+      "decksheet": {
+        "universe": "Yu-Gi-Oh!",
+        "sheetName": "ACB_Yu-Gi-Oh!_Decksheet",
+        "columns": 6,
+        "rows": 5,
+        "slotIndex": 0,
+        "row": 0,
+        "col": 0,
+        "cardIdInDeck": 100,
+        "backUrl": "https://steamusercontent-a.akamaihd.net/ugc/9902490616982853380/62B80402DC90876D8E5D050F24D76CB27F46BAC1/"
+      },
+      "updatedAt": "2026-10-28T14:40:35.992Z"
+    },
+    "0002": {
+      "stableId": "0002",
+      "originalId": "acb_card_2",
+      "cardNumber": "No. 002",
+      "name": "YUGI MUTO",
+      "subtitle": "Natural Strategist",
+      "fullName": "YUGI MUTO, Natural Strategist",
+      "cardType": "Character",
+      "rarity": "Silver",
+      "cost": 4,
+      "universe": "Yu-Gi-Oh!",
+      "primaryElement": "Spirit",
+      "weaknesses": [
+        "Darkness",
+        "Nature"
+      ],
+      "strengths": [],
+      "neutrals": [],
+      "hp": 2200,
+      "atk": 600,
+      "ev": 5,
+      "characterType": "Human",
+      "keywords": [
+        "Card Draw",
+        "Control",
+        "Energy",
+        "Swapper"
+      ],
+      "tournamentAbilities": [
+        {
+          "id": "tab_1793157956675_vhie8",
+          "name": "I Draw",
+          "trigger": "AUTO",
+          "phase": "TOURNAMENT",
+          "description": "Generate 1 Energy. Draw a card.",
+          "icon": "sparkles"
+        }
+      ],
+      "battleAbilities": [
+        {
+          "id": "bab_1793157956676_86dux",
+          "name": "I Set a Card",
+          "trigger": "ENTER",
+          "phase": "BATTLE",
+          "description": "You may swap the positions of two characters in your Reserve.",
+          "icon": "log-in"
+        }
+      ],
+      "flavorText": "“It's not about having powerful cards in your hand; it's about trusting the bond between you and your deck.”",
+      "setNumber": "SET: YU_GI_OH_ 01",
+      "gmNotes": "{\"id\":\"acb_card_2\",\"stableId\":\"0002\",\"name\":\"YUGI MUTO, Natural Strategist\",\"hp\":2200,\"atk\":600,\"ev\":5,\"imageUrl\":\"https://edorapsoficial-alt.github.io/acb-card-assets/cards/0002.png?v=10d6596f20\"}",
+      "ttsDescription": "Spirit Silver",
+      "imagePath": "cards/0002.png",
+      "publicUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0002.png?v=10d6596f20",
+      "pagesUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0002.png?v=10d6596f20",
+      "rawUrl": "https://raw.githubusercontent.com/edorapsoficial-alt/acb-card-assets/main/cards/0002.png?v=10d6596f20",
+      "version": 1,
+      "fileHash": "10d6596f2050cd97c349e0b35e8d86e72e71ee4cdee1c46da7c092af5867c799",
+      "gitBlobSha": "f3ac2b500320904f3e26abb55e9d741c9e0ffe1b",
+      "cardContentHash": "f084fc8420358a1205b5bb1c99acb3422938c595962c8a05395c3adfee6ccc12",
+      "layoutMode": "full-art",
+      "decksheet": {
+        "universe": "Yu-Gi-Oh!",
+        "sheetName": "ACB_Yu-Gi-Oh!_Decksheet",
+        "columns": 6,
+        "rows": 5,
+        "slotIndex": 1,
+        "row": 0,
+        "col": 1,
+        "cardIdInDeck": 101,
+        "backUrl": "https://steamusercontent-a.akamaihd.net/ugc/9902490616982853380/62B80402DC90876D8E5D050F24D76CB27F46BAC1/"
+      },
+      "updatedAt": "2026-10-28T14:40:37.928Z"
+    },
+    "0003": {
+      "stableId": "0003",
+      "originalId": "acb_card_3",
+      "cardNumber": "No. 003",
+      "name": "YAMI YUGI",
+      "subtitle": "Awakened Pharaoh",
+      "fullName": "YAMI YUGI, Awakened Pharaoh",
+      "cardType": "Character",
+      "rarity": "Gold",
+      "cost": 6,
+      "universe": "Yu-Gi-Oh!",
+      "primaryElement": "Spirit",
+      "weaknesses": [
+        "Darkness",
+        "Nature"
+      ],
+      "strengths": [],
+      "neutrals": [],
+      "hp": 4000,
+      "atk": 1500,
+      "ev": 7,
+      "characterType": "Human",
+      "keywords": [
+        "Burst DMG",
+        "Sacrifice",
+        "Energy Battery",
+        "DPS"
+      ],
+      "tournamentAbilities": [
+        {
+          "id": "tab_1793157956676_ccg47",
+          "name": "The Millennium Puzzle",
+          "trigger": "ACTIVE",
+          "phase": "TOURNAMENT",
+          "description": "Generate 2 Energy. Destroy: destroy a card from your hand or discard pile.",
+          "icon": "swords"
+        }
+      ],
+      "battleAbilities": [
+        {
+          "id": "bab_1793157956676_a6ec7",
+          "name": "Dark Magic Attack!",
+          "trigger": "ACTIVE",
+          "phase": "BATTLE",
+          "description": "Once per game, this character's attack cannot be dodged and deals +1000 damage. The attack is also considered Dark type.",
+          "icon": "swords"
+        }
+      ],
+      "flavorText": "“When shadows engulf the arena, the ancient Pharaoh awakens to guide the duel toward righteous destiny.”",
+      "setNumber": "SET: YU_GI_OH_ 01",
+      "gmNotes": "{\"id\":\"acb_card_3\",\"stableId\":\"0003\",\"name\":\"YAMI YUGI, Awakened Pharaoh\",\"hp\":4000,\"atk\":1500,\"ev\":7,\"imageUrl\":\"https://edorapsoficial-alt.github.io/acb-card-assets/cards/0003.png?v=026914e66d\"}",
+      "ttsDescription": "Spirit Gold",
+      "imagePath": "cards/0003.png",
+      "publicUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0003.png?v=026914e66d",
+      "pagesUrl": "https://edorapsoficial-alt.github.io/acb-card-assets/cards/0003.png?v=026914e66d",
+      "rawUrl": "https://raw.githubusercontent.com/edorapsoficial-alt/acb-card-assets/main/cards/0003.png?v=026914e66d",
+      "version": 1,
+      "fileHash": "026914e66d785f1ac5867e7bfbaffde4dcd671a10412bd5633d773df09cc17fe",
+      "gitBlobSha": "df485b57809cfc41f0dc3f13391c55b51838a75b",
+      "cardContentHash": "829c77246ab7d57a583ffc603961158d01c079049bab49f49d3ffdf6dfe7608d",
+      "layoutMode": "full-art",
+      "decksheet": {
+        "universe": "Yu-Gi-Oh!",
+        "sheetName": "ACB_Yu-Gi-Oh!_Decksheet",
+        "columns": 6,
+        "rows": 5,
+        "slotIndex": 2,
+        "row": 0,
+        "col": 2,
+        "cardIdInDeck": 102,
+        "backUrl": "https://steamusercontent-a.akamaihd.net/ugc/9902490616982853380/62B80402DC90876D8E5D050F24D76CB27F46BAC1/"
+      },
+      "updatedAt": "2026-10-28T14:40:40.248Z"
+    }
+  },
+  "byOriginalId": {
+    "acb_card_1": "0001",
+    "acb_card_2": "0002",
+    "acb_card_3": "0003"
+  },
+  "byCardNumber": {
+    "No. 001": "0001",
+    "No. 002": "0002",
+    "No. 003": "0003"
+  }
+}
